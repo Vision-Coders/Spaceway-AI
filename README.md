@@ -8,3 +8,7 @@ Follow the [link](https://colab.research.google.com/drive/1Azzdfx2dv7fd8yL_djiW1
 ```
 pip install wikipedia-api
 ```
+- To know the labels of the images, we are using Places365 datasets.
+```
+https://raw.githubusercontent.com/CSAILVision/places365/master/categories_places365.txt
+```
