@@ -56,7 +56,7 @@ def load_places365_model(device):
   ```
 - We are preprocessing the image in processess_image() function
 - And predicting scene and provide imformation in the function predict_scen()
-- And then running the script by setting construct __name__ == "__main__".
+- And then running the script by setting construct to main.
 - The input images is :
 
 ![1000_F_243259090_crbVsAqKF3PC2jk2eKiUwZHBPH8Q6y9Y](https://github.com/user-attachments/assets/a1f5cfe0-4431-482d-9f03-b51fcd6c9dcb)
