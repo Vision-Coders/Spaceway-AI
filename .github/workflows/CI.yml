@@ -39,4 +39,4 @@ jobs:
     - name: Test Scene Recognition Script
       run: |
         wget -O test_image.jpg https://as1.ftcdn.net/v2/jpg/02/43/25/90/1000_F_243259090_crbVsAqKF3PC2jk2eKiUwZHBPH8Q6y9Y.jpg
-        python script_name.py
+        python model.py
