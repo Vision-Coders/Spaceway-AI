@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/CSAILVision/places365/master/categories_places
         return "No dynamic description available for this scene."
   ```
   while running the model, place your email ID in the contact. The length of the scene description is 500 words.
-- We are using the pre-trained model for PLace365 dataset which is :
+- We are using the pre-trained model for Place365 dataset which is :
 ```
 def load_places365_model(device):
     model = models.resnet50(pretrained=False)
@@ -58,4 +58,4 @@ def load_places365_model(device):
 - And then running the script by setting construct to main.
 - The input images is :
 
-![1000_F_243259090_crbVsAqKF3PC2jk2eKiUwZHBPH8Q6y9Y](https://github.com/user-attachments/assets/a1f5cfe0-4431-482d-9f03-b51fcd6c9dcb)
+![forest](https://github.com/user-attachments/assets/da10f8c1-f4da-44e4-b5c8-d522c39651ce)
